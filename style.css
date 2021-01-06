@@ -132,6 +132,8 @@ h2{
     background-size: contain;
     background-repeat: no-repeat;
     margin-left: 30%;
+    height: 75%;
+    width: 65%;
 }
 #w{
     margin-left: 10px;
@@ -148,6 +150,9 @@ a{
     background-color: chocolate;
     text-decoration: none;
     text-align: center;
+}
+.btn{
+    position: right;
 }
 
 #foter{
